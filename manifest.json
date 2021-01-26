@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "My extension",
-    "description": "Bulgakov",
+    "name": "Bulgakov Extension",
+    "description": "Changes the style of the site.",
     "version": "0.1",
     "content_scripts": [
       {
